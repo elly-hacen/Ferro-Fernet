@@ -1,0 +1,6 @@
+.env
+.venv
+secret.key
+.ropeproject
+__pycache__
+.python-version
