@@ -1,4 +1,4 @@
-# GitHub File Encryption and Management
+# Ferro Fernet
 
 This program allows you to securely encrypt or decrypt files and upload/download them to/from a GitHub repository using the GitHub REST API.
 
